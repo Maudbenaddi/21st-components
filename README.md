@@ -7,6 +7,6 @@ Built with shadcn/ui and Tailwind, working in light and dark.
 
 | | |
 |---|---|
-| [![Notched Project Card](notched-project-card/preview.png)](https://21st.dev/maudbenaddi/notched-project-card)<br>[**Notched Project Card**](notched-project-card) | |
+| [![Notched Project Card](notched-project-card/gallery.gif)](https://21st.dev/maudbenaddi/notched-project-card)<br>[**Notched Project Card**](notched-project-card) | |
 
 MIT licence. Made by [Maud](https://21st.dev/maudbenaddi).

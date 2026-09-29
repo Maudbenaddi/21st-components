@@ -2,7 +2,7 @@
 
 A project card with a rounded notch cut out of its cover, and the arrow sitting in it.
 
-![Notched Project Card in light and dark](preview.gif)
+![Notched Project Card in dark and light](preview.gif)
 
 **[View on 21st](https://21st.dev/maudbenaddi/notched-project-card)**
 

@@ -4,8 +4,8 @@ import { NotchedProjectCard } from "./notched-project-card";
    confessions from a designer who would rather not build her own cards. */
 
 const settings = {
-  accent: "#0033ff",
-  accentForeground: "#ffffff",
+  accent: "#7f72e3",
+  accentForeground: "#060408",
   monochrome: true,
   title1: "Ctrl+C, Ctrl+V, Ship",
   title2: "The Button I Didn't Design",
